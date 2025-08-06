@@ -11,3 +11,5 @@ public class AsciiValue {
         System.out.println("The ASCII value of " + ch + " is: " + castAscii);
     }
 }
+
+this code is java 
